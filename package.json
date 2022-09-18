@@ -20,7 +20,7 @@
     "kdu": "^2.6.14-alpha.0",
     "kdu-server-renderer": "^2.6.14-alpha.0",
     "kdu-template-compiler": "^2.6.14-alpha.0",
-    "postcss": "^6.0.22",
+    "postcss": "^7.0.36",
     "puppeteer": "^1.11.0",
     "rollup": "^1.1.0",
     "rollup-plugin-babel": "^4.3.0",
