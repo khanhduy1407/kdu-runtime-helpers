@@ -1,0 +1,1 @@
+declare var __KDU_SSR_CONTEXT__: any
